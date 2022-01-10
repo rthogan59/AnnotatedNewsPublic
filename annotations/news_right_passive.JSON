@@ -1,0 +1,136 @@
+{
+  "meta-data": {
+    "file": "news_right_passive.JSON",
+    "type": "article",
+    "orientation": "right",
+    "study-group": "passive",
+    "url": "https://www.breitbart.com/politics/2020/12/17/fraud-happened-sen-rand-paul-says-the-election-in-many-ways-was-stolen/",
+    "source": "Breitbart",
+    "title": "‘Fraud Happened’: Sen. Rand Paul Says the Election in ‘Many Ways Was Stolen’"
+  },
+
+  "annotations": [
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "__PAGETOP__",
+      "preview": "What is Breitbart?",
+      "title": "Source Analysis",
+      "text": "Learn more about Breitbart News with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Analysis of Breitbart News on AllSides.com:",
+          "url": "https://www.allsides.com/news-source/breitbart",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "KRISTINA WONG",
+      "preview": "Who is Kristina Wong?",
+      "title": "Author Analysis",
+      "text": "Learn more about Kristina Wong with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Kristina Wong's Twitter Account:",
+          "url": "https://twitter.com/kristina_wong",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Sen. Rand Paul (R-KY)",
+      "preview": "Who is Hayley Miller?",
+      "title": "Author Analysis",
+      "text": "Learn more about Hayley Miller with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Author Profile of Hayley Miller:",
+          "url": "https://www.huffpost.com/author/hayley-miller",
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "Probably two dozen states decided to accept ballots after the election. Two dozen states decided they could mail out applications or mail out ballots, all without the will of the legislature",
+      "preview": "Explore what other experts and politicians think about this claim…",
+      "title": "Legality of Election Rule Changes",
+      "text": "Learn more about the legality of these election rules changes with the following resource(s):",
+      "perspectives": [
+        {
+          "text": "Article on Supreme Court cases related to claims of improper election rule changes in Pennsylvania:",
+          "url": "https://www.nytimes.com/2020/10/28/us/supreme-court-pennsylvania-north-carolina-absentee-ballots.html"
+        },
+        {
+          "text": "List of Election Rule changes in each state and relevent litigation:",
+          "url": "https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020#Absentee.2Fmail-in_voting_procedure_modifications_for_the_general_election"
+        },
+        {
+          "text": "Argument for 'Preserving the Role of Legislatures':",
+          "url": "https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/750#enforcing-the-elections-clause-by-preserving-the-role-of-legislatures-morle"
+        },
+        {
+          "text": "Argument for a State Government's role in determining election rules:",
+          "url": "https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/750#ordering-state-federal-relations-through-the-elections-clause-tolson"
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Christopher Krebs",
+      "preview": "Who is Christopher Krebs?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Christopher Krebs with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Christopher Krebs:",
+          "url": "https://en.wikipedia.org/wiki/Chris_Krebs",
+        },
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "Christopher Krebs, the former director of the Cybersecurity and Infrastructure Security Agency (CISA), has said it was the 'most secure electio,'",
+      "preview": "Explore the CISA statement on election security…",
+      "title": "CISA Statement on Election Security",
+      "text": "Learn more about the CISA statement on election security with these resource(s):",
+      "perspectives": [
+        {
+          "text": "Text of the CISA Statement on Election Security:",
+          "url": "https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election",
+        },
+        {
+          "text": "Analysis related to Christopher Krebs and the CISA statement on election security:",
+          "url": "https://www.cbsnews.com/news/election-results-security-chris-krebs-60-minutes-2020-11-29/",
+        },
+        {
+          "text": "DHS Official's perspective that 'election fraud' is outside the scope of CISA:",
+          "url": "https://www.foxnews.com/politics/trump-chris-krebs-fired-out-of-his-lane-dhs-official",
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "Fraud Happened",
+      "preview": "Explore claims of election fraud in the 2020 Presidential Election…",
+      "title": "Addressing Claims of Election Fraud",
+      "text": "Learn more about these claims of Election Fraud with the following resource(s):",
+      "perspectives": [
+        {
+          "text": "Fact check of fraud claims related to the 2020 Presidential Election:",
+          "path":  "https://interactives.ap.org/election-myth-debunk/"
+        }
+      ]
+    }
+  ]
+}

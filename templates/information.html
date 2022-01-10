@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div id="main">
+  <div class="section">
+    <h2 class="sectionHeader"> What is Annotated News? </h2>
+    <p class="title"> Annotated News is a Chrome browser extension that aims to broaden your exposure to different ideas and perspectives across the internet. By annotating news stories, social media posts, and other online information, the tool will help you understand what other people believe and why. There are two types of annotations on the Annotated News Platform: context and counterpoint. Context annotations provide you with some background information or facts to further contextualize a statement. Counterpoint annotations help you expand your views beyond what is stated. They grapple with the multiple perspectives that undoubtedly exist and try to help you stay open minded.  </p>
+  </div>
+
+  <div class="section">
+    <h2 class="sectionHeader"> What is the Purpose of the Study? </h2>
+    <p class="title"> The purpose of the study is to help us understand how effective the Annotated News Tool is at increasing your open-mindedness and understanding of perspectives different than your own. </p>
+  </div>
+
+  <div class="section">
+    <h2 class="sectionHeader"> Why Should I Participate? </h2>
+    <p class="title"> Your participation in this study will help us better understand how users engage with online content and respond to web annotations. Not only will you be part of developing a useful and timely tool in the age of internet polarization, you’ll also be awarded +10 bonus points toward your SS307 grade. You can opt out at any time. Your information and survey responses will be kept confidential at all times. None of your answers or political opinions will be traceable back to your name.  </p>
+  </div>
+
+  <div class="section">
+    <h2 class="sectionHeader"> How Do I Participate? </h2>
+    <p class="title"> To get started, please click the link below. </p>
+
+    <a href="{{ url_for('study') }}">
+      <div id="startButton">Get Started</div>
+    </a>
+
+  </div>
+</div>
+
+{% endblock %}

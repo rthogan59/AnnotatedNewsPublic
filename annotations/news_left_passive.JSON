@@ -1,0 +1,217 @@
+{
+  "meta-data": {
+    "file": "news_left_passive.JSON",
+    "type": "article",
+    "orientation": "left",
+    "study-group": "passive",
+    "url": "https://www.huffpost.com/entry/georgia-election-trump-voter-fraud-claims_n_5ff36b73c5b61817a538bd20",
+    "source": "HuffPost",
+    "title": "Georgia Election Official: Trump Team ‘Intentionally Misled’ Voters On Fraud Claims"
+  },
+
+  "annotations": [
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "__PAGETOP__",
+      "preview": "What is HuffPost?",
+      "title": "Source Analysis",
+      "text": "Learn more about HuffPost with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Analysis of HuffPost on AllSides.com",
+          "url": "https://www.allsides.com/news-source/huffpost-media-bias",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Gabriel Sterling",
+      "preview": "Who is Gabriel Sterling?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Gabriel Sterling with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Gabriel Sterling:",
+          "url": "https://en.wikipedia.org/wiki/Gabriel_Sterling",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Hayley Miller",
+      "preview": "Who is Hayley Miller?",
+      "title": "Author Analysis",
+      "text": "Learn more about Hayley Miller with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Author Profile of Hayley Miller:",
+          "url": "https://www.huffpost.com/author/hayley-miller",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "a 90-second video clip",
+      "preview": "Watch the video.",
+      "title": "Video of the Alledged Fraud",
+      "text": "Watch the video of the alledged 2020 Presidential Election Fraud with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Facebook post of the Alledged Fraud:",
+          "url": "https://www.facebook.com/restorationpac/videos/1002133710271567/?__xts__[0]=68.ARDNP9n4TakNeD99chaJc2gDGs7i64Qr3MLQ3V9zBNbsBfRU-FWycMk81D9FhYFXdYbBB0_2OjtcYqb9F6d-W8wrvpTBVzHc2YPdq1oUSrvg277ruZTspwqos-I2jB-cyC_meoUt4_buEl7w9lAg-o_FybSsRJ_ZhQD8dfDvnyTMdR2xA-yqHLyQ8ro0LvT6GtazvFPnLgYpjVs4NUbYtRg8ZOivfyBBzYRMlPPlA1x47VBW2hJrx7l8MwzzPzMc81NIV7vSDRMTZuDEqcQnJXBsh-suD92g9zL9j-oUsLdCU0StkVgRiRge2KQsj0TSsRG1WtCcowTjwcgt3A",
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "shows election workers bringing a box of ballots out from under a table to count after telling Republican poll watchers to go home",
+      "preview": "See the other perspectives on this claim…",
+      "title": "Understanding Various Perspectives on Election Fraud in Georgia.",
+      "text": "Learn more about this claim with the following resource(s):",
+      "perspectives": [
+        {
+          "text": "Explaination of the Georgia surveillance tape fraud claims from the Associate Press:",
+          "url": "https://apnews.com/article/election-2020-donald-trump-georgia-media-social-media-e9a73462e39e7aa39683f0f582a6659e"
+        },
+        {
+          "text": "Facebook post of the Alledged Fraud:",
+          "url": "https://www.facebook.com/restorationpac/videos/1002133710271567/?__xts__[0]=68.ARDNP9n4TakNeD99chaJc2gDGs7i64Qr3MLQ3V9zBNbsBfRU-FWycMk81D9FhYFXdYbBB0_2OjtcYqb9F6d-W8wrvpTBVzHc2YPdq1oUSrvg277ruZTspwqos-I2jB-cyC_meoUt4_buEl7w9lAg-o_FybSsRJ_ZhQD8dfDvnyTMdR2xA-yqHLyQ8ro0LvT6GtazvFPnLgYpjVs4NUbYtRg8ZOivfyBBzYRMlPPlA1x47VBW2hJrx7l8MwzzPzMc81NIV7vSDRMTZuDEqcQnJXBsh-suD92g9zL9j-oUsLdCU0StkVgRiRge2KQsj0TSsRG1WtCcowTjwcgt3A"
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "The Trump Legal Team has presented facts and evidence, including witnesses and expert testimony that show the administration of the 2020 election in Georgia was illegal",
+      "preview": "See the other perspectives on this claim…",
+      "title": "Understanding Various Perspectives on the Trump Legal Team.",
+      "text": "Learn more about each of these claims and responses to them with the following resource(s):",
+      "perspectives": [
+        {
+          "text": "Secretary of State Brad Raffensperger's Response to Georgia Election Fraud Claims:",
+          "path":  "/AN_SOURCES/L_ARTICLE_SOURCE1"
+        },
+        {
+          "text": "List of Legal Challenges and Associated Results:",
+          "url": "https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election_from_Georgia"
+        },
+        {
+          "text": "Fact check of fraud claims related to the 2020 Presidential Election:",
+          "url": "https://interactives.ap.org/election-myth-debunk/"
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Jenna Ellis",
+      "preview": "Who is Jenna Ellis?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Jenna Ellis with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Jenna Ellis:",
+          "url": "https://en.wikipedia.org/wiki/Jenna_Ellis",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "an extraordinary phone call",
+      "preview": "What was said on the phone call?",
+      "title": "Transcript of Trump's Phone Call with Brad Raffensperger",
+      "text": "Read the entire transcript of the phone call with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Transcript of the Raffensperger Phone Call:",
+          "url": "https://www.cnn.com/2021/01/03/politics/trump-brad-raffensperger-phone-call-transcript/index.html",
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "the president pressured him to overturn President-elect Joe Biden’s win",
+      "preview": "Explore various interpretations of the phone call.",
+      "title": "Perspectives on the Raffensperger Phone Call",
+      "text": "Learn more about each of these perspectives with the following resource(s):",
+      "perspectives": [
+        {
+          "text": "Article on the Legality and Ethicality of the Phone Call:",
+          "url": "https://www.npr.org/2021/01/04/953151921/trumps-call-to-georgia-election-officials-sparks-debate-over-legality-ethics"
+        },
+        {
+          "text": "Perspective that the phone call was a 'confidential settlement discussion':",
+          "url": "https://twitter.com/DavidShafer/status/1345868002026205184?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1345868685605543940%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fwww.11alive.com%2Farticle%2Fnews%2Fpolitics%2Felections%2Ftrump-phone-call-brad-raffersperger%2F85-a0c1c287-b69f-470e-a8b6-d1cdf9df1b11"
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Georgia Secretary of State Brad Raffensperger",
+      "preview": "Who is Brad Raffensperger?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Brad Raffensperger with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Brad Raffensperger:",
+          "url": "https://en.wikipedia.org/wiki/Brad_Raffensperger",
+        },
+        {
+          "content-type": "link",
+          "text": "Georgia State Department biography of Brad Raffensperger:",
+          "url": "https://sos.ga.gov/index.php/general/secretary_brad_raffensperger",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "who vaguely threatened Raffensperger with a “criminal offense” if he did not obey his request",
+      "preview": "What was the threat, exactly?",
+      "title": "Language of the 'Threat'"",
+      "text": "See an excerpt of the transcript with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia article on the details of the phone call:",
+          "url": "https://en.wikipedia.org/wiki/Trump%E2%80%93Raffensperger_phone_call#:~:text=Trump%20also%20tried%20to%20intimidate,a%20big%20risk%20to%20you.%22",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Tuesday’s twin Senate runoffs",
+      "preview": "What are the 'twin Senate Runoffs'?",
+      "title": "Georgia Senate Runoffs",
+      "text": "Learn more about the runoff elections held in Georgia with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Details about the Georgia State Runoff in January 2021:",
+          "url": "https://ballotpedia.org/United_States_Senate_runoff_elections_in_Georgia_(January_5,_2021)",
+        },
+        {
+          "content-type": "link",
+          "text": "Election results from the Georgia State Runoff in January 2021:",
+          "url": "https://www.nbcnews.com/politics/2020-elections/georgia-senate-runoff-results",
+        }
+      ]
+    }
+  ]
+}

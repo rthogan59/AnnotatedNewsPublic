@@ -1,0 +1,120 @@
+{
+  "meta-data": {
+    "file": "social_left_passive.JSON",
+    "type": "social",
+    "orientation": "left",
+    "study-group": "passive",
+    "url": "https://twitter.com/HawleyMO/status/1344307458085412867",
+    "source": "Twitter",
+    "title": "Tweet"
+  },
+
+  "annotations": [
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Jake Tapper",
+      "preview": "Who is Jake Tapper?",
+      "title": "Author Analysis",
+      "text": "Learn more about Jake Tapper with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Jake Tapper:",
+          "url": "https://en.wikipedia.org/wiki/Jake_Tapper",
+        },
+        {
+          "content-type": "link",
+          "text": "CNN Profile on Jake Tapper:",
+          "url": "https://www.cnn.com/profiles/jake-tapper-profile",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Charles Cooke",
+      "preview": "Who is Charles Cooke?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Charles Cooke with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Charles Cooke:",
+          "url": "https://en.wikipedia.org/wiki/Charles_C._W._Cooke",
+        },{
+          "content-type": "link",
+          "text": "National Review Profile on Charles Cooke:",
+          "url": "https://www.nationalreview.com/author/charles-c-w-cooke/",
+        },
+        {
+          "content-type": "link",
+          "text": "Charles Cooke's personal website:",
+          "url": "https://charlescwcooke.com/",
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "Perdue & McSally",
+      "preview": "Who are Perdue and McSally?",
+      "title": "Key Figure Analysis",
+      "text": "Learn more about Perdue and McSally with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on David Perdue:",
+          "url": "https://en.wikipedia.org/wiki/David_Perdue",
+        },
+        {
+          "content-type": "link",
+          "text": "Wikipedia entry on Martha McSally:",
+          "url": "https://en.wikipedia.org/wiki/Martha_McSally",
+        }
+      ]
+    },
+    {
+      "type": "counterpoint",
+      "unique-id": "an-423573459",
+      "key-text": "‘reinstated’ to office this summer after ‘audits’",
+      "preview": "See the other perspectives related to the 'reinstatement' of Donald Trump…",
+      "title": "Analyzing the 'Reinstatement' Theory",
+      "text": "Explore other sources and perspectives related to the theory of 'reinstatement'.",
+      "perspectives": [
+        {
+          "text": "The article by Charles Cooke 'confirming' that Donald Trump believes he will be reinstated:",
+          "url": "https://www.nationalreview.com/2021/06/maggie-haberman-is-right/"
+        },
+        {
+          "text": "Article explaining the theory of 'reinstatement':",
+          "url": "https://www.willistonherald.com/opinion/columnists/trump-s-claimed-reinstatement-a-constitutional-myth/article_d1f85db2-cde2-11eb-9896-e3d669ef7a77.html"
+        },
+        {
+          "text": "Tweet and video showing Sidney Powell,  a former Trump Attorney, explaining the theory:",
+          "url": "https://twitter.com/travis_view/status/1398815788933402628?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1398815788933402628%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.vice.com%2Fen%2Farticle%2Fn7bebg%2Fqanon-conference-wildest-moments-from-patriot-roundup-dallas"
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "unique-id": "an-2394857089",
+      "key-text": "2020 elections in Arizona, Georgia",
+      "preview": "What were the results of the 2020 elections in these states?",
+      "title": "Election Results in Arizona and Georgia for the 2020 Presidential Election",
+      "text": "View the election results in these states with the following resource(s):",
+      "content": [
+        {
+          "content-type": "link",
+          "text": "2020 Presidential Election results in Arizona:",
+          "url": "https://www.politico.com/2020-election/results/arizona/",
+        },
+        {
+          "content-type": "link",
+          "text": "2020 Presidential Election results in Georgia:",
+          "url": "https://www.politico.com/2020-election/results/georgia/",
+        }
+      ]
+    }
+  ]
+}
